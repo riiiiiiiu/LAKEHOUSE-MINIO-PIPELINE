@@ -1,0 +1,39 @@
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Airflow
+logs/
+airflow.db/
+airflow.cfg
+webserver_config.py
+
+# Temporary files
+*.json
+*.tmp
+/tmp/
+
+# Generated data
+*.parquet
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

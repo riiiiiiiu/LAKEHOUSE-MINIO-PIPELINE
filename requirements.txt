@@ -1,0 +1,18 @@
+# ── Airflow providers ─────────────────────────────────────
+apache-airflow-providers-amazon==2.6.0      # S3 / MinIO hooks & operators
+apache-airflow-providers-postgres==2.4.0    # Postgres hooks & operators
+
+# ── Data processing ───────────────────────────────────────
+pandas==1.3.5                               # DataFrame ops (compatible with Python 3.7)
+pyarrow==8.0.0                              # Parquet read/write
+
+# ── MinIO / S3 client ─────────────────────────────────────
+minio==7.1.15                               # MinIO Python SDK
+boto3==1.24.96                              # AWS S3-compatible client
+
+# ── Schema & config ───────────────────────────────────────
+PyYAML==6.0                                 # YAML schema loading
+
+# ── Database ──────────────────────────────────────────────
+psycopg2-binary==2.9.5                      # Postgres driver
+SQLAlchemy==1.4.46                          # ORM (Airflow 2.2.x compatible)
