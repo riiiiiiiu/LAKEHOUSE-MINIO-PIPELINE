@@ -240,9 +240,9 @@ Through this project, I gained practical experience with:
 
 ## Author
 
-**Sufiyan Shaikh**
+**Rehan Shaikh**
 
-GitHub: https://github.com/SUFIYANSK01
+GitHub: https://github.com/riiiiiiiu
 
 ---
 
