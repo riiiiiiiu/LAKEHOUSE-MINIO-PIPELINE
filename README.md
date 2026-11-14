@@ -151,7 +151,7 @@ The DAG is configured with:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SUFIYANSK01/lakehouse-pipline.git
+git clone https://github.com/riiiiiiiu/LAKEHOUSE-MINIO-PIPELINE.git
 ```
 
 ### 2. Navigate to the project directory
